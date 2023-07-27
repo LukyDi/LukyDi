@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: asm-7.3.1.jar junit-jupiter-5.4.2.jar junit-jupiter-api-5.
+ 4.2.jar apiguardian-api-1.0.0.jar opentest4j-1.1.1.jar junit-platform
+ -commons-1.4.2.jar junit-jupiter-params-5.4.2.jar junit-jupiter-engin
+ e-5.4.2.jar junit-platform-engine-1.4.2.jar nashorn-core-15.4.jar asm
+ -commons-7.3.1.jar asm-util-7.3.1.jar annotations-17.0.0.jar asm-anal
+ ysis-7.3.1.jar asm-tree-7.3.1.jar
+Main-Class: 
+
